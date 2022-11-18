@@ -1,0 +1,10 @@
+click<=8.0.4
+streamlit==0.73.1
+pandas
+keras
+tensorflow
+xlrd
+openpyxl
+plotly
+matplotlib
+sklearn
