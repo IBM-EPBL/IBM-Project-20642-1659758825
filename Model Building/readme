@@ -1,1 +1,8 @@
-
+We have trained five models:
+  1. Decision tree regressor
+  2. Linear regression
+  3. Random forest regression
+  4. Support vector regression
+  5. XGB regressor
+Metrics used - Rsquared and Root mean square error
+Based on the above mentioned metrics the suitable model was chosen 
